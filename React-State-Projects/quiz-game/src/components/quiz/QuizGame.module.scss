@@ -1,0 +1,48 @@
+.quiz {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 2rem;
+
+    li {
+      margin-bottom: 1rem;
+      font-size: 1.2rem;
+    }
+  }
+
+  button {
+    display: block;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #0077cc;
+    color: #fff;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+
+  label {
+    display: block;
+  }
+
+  input[type="radio"] {
+    margin-right: 1rem;
+  }
+}

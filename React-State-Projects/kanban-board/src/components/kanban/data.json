@@ -1,0 +1,33 @@
+[
+  { "id": 1, "content": "Write a blog post", "status": "notStarted" },
+  {
+    "id": 2,
+    "content": "Create a social media strategy",
+    "status": "notStarted"
+  },
+  { "id": 3, "content": "Design a new logo", "status": "inProgress" },
+  {
+    "id": 4,
+    "content": "Research new marketing techniques",
+    "status": "notStarted"
+  },
+  {
+    "id": 5,
+    "content": "Develop a new product feature",
+    "status": "inProgress"
+  },
+  { "id": 6, "content": "Test website performance", "status": "completed" },
+  {
+    "id": 7,
+    "content": "Prepare a client presentation",
+    "status": "inProgress"
+  },
+  { "id": 8, "content": "Revise employee handbook", "status": "notStarted" },
+  { "id": 9, "content": "Attend a networking event", "status": "notStarted" },
+  { "id": 10, "content": "Develop a training program", "status": "inProgress" },
+  {
+    "id": 11,
+    "content": "Create a budget for the quarter",
+    "status": "notStarted"
+  }
+]

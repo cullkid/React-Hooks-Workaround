@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "10 Tips for Gardening Success",
+    "content": "Are you looking to start a garden but not sure where to begin? Here are 10 tips for gardening success that will help you grow a bountiful harvest!",
+    "author": "Jane Smith",
+    "email": "jane.smith@example.com"
+  },
+  {
+    "id": 2,
+    "title": "The Best Places to Travel in 2023",
+    "content": "Ready to start planning your next adventure? Check out our top picks for the best places to travel in 2023, from tropical beaches to bustling cities and everything in between.",
+    "author": "John Doe",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 3,
+    "title": "How to Train for Your First Marathon",
+    "content": "Thinking about running a marathon? Follow these training tips to help you prepare for your first 26.2-mile race and cross the finish line strong.",
+    "author": "Emily Lee",
+    "email": "emily.lee@example.com"
+  },
+  {
+    "id": 4,
+    "title": "10 Easy DIY Home Improvement Projects",
+    "content": "Transform your home with these simple and budget-friendly DIY home improvement projects. From painting to landscaping, these ideas will give your space a fresh new look.",
+    "author": "Michael Johnson",
+    "email": "michael.johnson@example.com"
+  },
+  {
+    "id": 5,
+    "title": "The Benefits of Meditation for Stress Relief",
+    "content": "Feeling stressed? Learn how meditation can help you relax, reduce anxiety, and improve your overall well-being with these tips and techniques.",
+    "author": "Sarah Lee",
+    "email": "sarah.lee@example.com"
+  },
+  {
+    "id": 6,
+    "title": "Healthy Meal Prep Ideas for the Week",
+    "content": "Save time and stay on track with your healthy eating goals by meal prepping for the week. These easy and delicious meal prep ideas will help you stay fueled and satisfied all week long.",
+    "author": "David Kim",
+    "email": "david.kim@example.com"
+  },
+  {
+    "id": 7,
+    "title": "How to Start a Successful Online Business",
+    "content": "Want to start an online business but not sure where to begin? Follow these steps to turn your passion into a profitable business and become your own boss.",
+    "author": "Jennifer Chen",
+    "email": "jennifer.chen@example.com"
+  },
+  {
+    "id": 8,
+    "title": "The Best Books to Read This Year",
+    "content": "Looking for your next great read? Check out our list of the best books to read this year, from page-turning thrillers to thought-provoking nonfiction and everything in between.",
+    "author": "Robert Davis",
+    "email": "robert.davis@example.com"
+  },
+  {
+    "id": 9,
+    "title": "10 Simple Tips for Better Sleep",
+    "content": "Struggling to get a good night's sleep? Try these simple tips for better sleep, including creating a relaxing bedtime routine and avoiding caffeine and electronics before bed.",
+    "author": "Jessica Lee",
+    "email": "jessica.lee@example.com"
+  },
+  {
+    "id": 10,
+    "title": "How to Make a Budget and Stick to It",
+    "content": "Want to get your finances in order? Learn how to make a budget and stick to it with these simple tips and tricks.",
+    "author": "Andrew Lee",
+    "email": "andrew.lee@example.com"
+  }
+]
